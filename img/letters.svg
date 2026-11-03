@@ -12,12 +12,12 @@
    inkscape:export-filename="background-green.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -28,65 +28,58 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2"
-     inkscape:cx="263.75"
-     inkscape:cy="385.75"
+     inkscape:zoom="2.271883"
+     inkscape:cx="599.5027"
+     inkscape:cy="500.24583"
      inkscape:window-width="1920"
      inkscape:window-height="1065"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
-     showguides="true">
-    <inkscape:grid
+     inkscape:current-layer="g15296"
+     showguides="true"><inkscape:grid
        type="xygrid"
        id="grid132"
        spacingx="0.52916667"
-       spacingy="0.52916667" />
-    <sodipodi:guide
+       spacingy="0.52916667" /><sodipodi:guide
        position="40.216666,209.68751"
        orientation="0,-1"
        id="guide6381"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="39.687499,199.10417"
        orientation="0,-1"
        id="guide6383"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="29.104166,208.62917"
        orientation="1,0"
        id="guide6385"
-       inkscape:locked="false" />
-    <sodipodi:guide
+       inkscape:locked="false" /><sodipodi:guide
        position="39.687499,204.92501"
        orientation="1,0"
        id="guide6387"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
-  <defs
-     id="defs2">
-    <linearGradient
+       inkscape:locked="false" /></sodipodi:namedview><defs
+     id="defs2"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient6249"><stop
+         style="stop-color:#f4f1eb;stop-opacity:1;"
+         offset="0.70370388"
+         id="stop6245" /><stop
+         style="stop-color:#977459;stop-opacity:1;"
+         offset="1"
+         id="stop6247" /></linearGradient><linearGradient
        id="linearGradient5574"
-       inkscape:swatch="solid">
-      <stop
+       inkscape:swatch="solid"><stop
          style="stop-color:#008000;stop-opacity:1;"
          offset="0"
-         id="stop5572" />
-    </linearGradient>
-    <linearGradient
+         id="stop5572" /></linearGradient><linearGradient
        inkscape:collect="always"
-       id="linearGradient7296">
-      <stop
+       id="linearGradient7296"><stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0.50000018"
-         id="stop7292" />
-      <stop
+         id="stop7292" /><stop
          style="stop-color:#a7a7a7;stop-opacity:1;"
          offset="1"
-         id="stop7294" />
-    </linearGradient>
-    <radialGradient
+         id="stop7294" /></linearGradient><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8580"
@@ -96,8 +89,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8721"
@@ -107,8 +99,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8723"
@@ -118,8 +109,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8725"
@@ -129,8 +119,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8767"
@@ -140,8 +129,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8769"
@@ -151,8 +139,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8771"
@@ -162,8 +149,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8773"
@@ -173,8 +159,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8815"
@@ -184,8 +169,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8817"
@@ -195,8 +179,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8819"
@@ -206,8 +189,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8821"
@@ -217,8 +199,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8863"
@@ -228,8 +209,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8865"
@@ -239,8 +219,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8867"
@@ -250,8 +229,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8869"
@@ -261,8 +239,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8911"
@@ -272,8 +249,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8913"
@@ -283,8 +259,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8915"
@@ -294,8 +269,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient8917"
@@ -305,8 +279,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <radialGradient
+       r="5.2916665" /><radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7296"
        id="radialGradient9142"
@@ -316,8 +289,7 @@
        cy="92.604164"
        fx="34.395832"
        fy="92.604164"
-       r="5.2916665" />
-    <filter
+       r="5.2916665" /><filter
        inkscape:label="Tartan"
        inkscape:menu="Overlays"
        inkscape:menu-tooltip="Checkered tartan pattern"
@@ -327,51 +299,672 @@
        y="0"
        width="1"
        height="1"
-       inkscape:auto-region="true">
-      <feTurbulence
+       inkscape:auto-region="true"><feTurbulence
          type="fractalNoise"
          result="result0"
          seed="553"
          numOctaves="2"
          baseFrequency="34.805194805194809"
          id="feTurbulence35542"
-         stitchTile="stitch" />
-      <feTurbulence
+         stitchTile="stitch" /><feTurbulence
          result="result3"
          type="turbulence"
          seed="222"
          numOctaves="2"
          baseFrequency="33.246753246753244"
          id="feTurbulence35544"
-         stitchTiles="stitch" />
-      <feComposite
+         stitchTiles="stitch" /><feComposite
          result="result1"
          operator="over"
          in2="result0"
-         id="feComposite35546" />
-      <feMerge
+         id="feComposite35546" /><feMerge
          result="result2"
-         id="feMerge35552">
-        <feMergeNode
+         id="feMerge35552"><feMergeNode
            in="result1"
-           id="feMergeNode35548" />
-        <feMergeNode
+           id="feMergeNode35548" /><feMergeNode
            in="result0"
-           id="feMergeNode35550" />
-      </feMerge>
-      <feComposite
+           id="feMergeNode35550" /></feMerge><feComposite
          result="result4"
          in="SourceGraphic"
          operator="in"
          in2="result2"
-         id="feComposite35554" />
-    </filter>
-  </defs>
-  <g
+         id="feComposite35554" /></filter><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient4618"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><filter
+       inkscape:label="3D Marble"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="3D warped marble texture"
+       height="25.509672"
+       y="-12.254836"
+       width="25.509662"
+       x="-12.254831"
+       style="color-interpolation-filters:sRGB;"
+       id="filter21780"><feGaussianBlur
+         stdDeviation="43.636363636363633"
+         result="result8"
+         id="feGaussianBlur21752" /><feTurbulence
+         seed="50"
+         result="result7"
+         type="turbulence"
+         numOctaves="7"
+         baseFrequency="0.01 0.01"
+         id="feTurbulence21754" /><feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.4 0 "
+         id="feColorMatrix21756" /><feComposite
+         result="result6"
+         in="result5"
+         operator="in"
+         in2="result8"
+         id="feComposite21758" /><feDisplacementMap
+         in="result5"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         scale="100"
+         result="result4"
+         in2="result6"
+         id="feDisplacementMap21760" /><feFlood
+         flood-opacity="1"
+         flood-color="rgb(224,224,224)"
+         id="feFlood21762" /><feComposite
+         result="result2"
+         operator="atop"
+         in2="result4"
+         id="feComposite21764" /><feComposite
+         in="result2"
+         operator="atop"
+         in2="SourceGraphic"
+         result="result9"
+         id="feComposite21766" /><feBlend
+         result="fbSourceGraphic"
+         mode="darken"
+         in2="result9"
+         id="feBlend21768" /><feGaussianBlur
+         stdDeviation="5"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur21770" /><feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="8"
+         specularConstant="0.8"
+         specularExponent="30"
+         id="feSpecularLighting21774"><feDistantLight
+           elevation="55"
+           azimuth="235"
+           id="feDistantLight21772" /></feSpecularLighting><feComposite
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in"
+         id="feComposite21776" /><feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result2"
+         id="feComposite21778" /></filter><filter
+       inkscape:label="Iridescent Beeswax"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Waxy texture which keeps its iridescence through color fill change"
+       style="color-interpolation-filters:sRGB;"
+       id="filter24140"
+       x="-0.75590547"
+       y="-0.75590577"
+       width="2.5118109"
+       height="2.5118115"><feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="3"
+         id="feGaussianBlur24110" /><feTurbulence
+         type="turbulence"
+         baseFrequency="0.05"
+         seed="200"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence24112" /><feComposite
+         result="result2"
+         operator="in"
+         in2="result1"
+         in="result0"
+         id="feComposite24114" /><feSpecularLighting
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         result="result4"
+         specularConstant="8"
+         specularExponent="3"
+         in="result2"
+         id="feSpecularLighting24118"><feDistantLight
+           elevation="62"
+           azimuth="225"
+           id="feDistantLight24116" /></feSpecularLighting><feComposite
+         k1="1.8"
+         k3="0.8"
+         k2="-0.4"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         result="result91"
+         id="feComposite24120" /><feBlend
+         result="fbSourceGraphic"
+         mode="screen"
+         in2="result91"
+         id="feBlend24122" /><feComposite
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in"
+         id="feComposite24124" /><feComposite
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="arithmetic"
+         k2="2"
+         k3="5"
+         in2="result2"
+         id="feComposite24126" /><feTurbulence
+         type="fractalNoise"
+         baseFrequency="0.04"
+         seed="35"
+         numOctaves="5"
+         result="result1"
+         id="feTurbulence24128" /><feComposite
+         k4="-0.1"
+         k1="0.9"
+         k2="0.3"
+         result="result2"
+         operator="arithmetic"
+         in2="result1"
+         in="fbSourceGraphic"
+         id="feComposite24130" /><feSpecularLighting
+         surfaceScale="3"
+         result="result4"
+         specularConstant="1"
+         specularExponent="30"
+         in="result2"
+         id="feSpecularLighting24134"><feDistantLight
+           elevation="62"
+           azimuth="225"
+           id="feDistantLight24132" /></feSpecularLighting><feComposite
+         in2="result2"
+         in="result4"
+         operator="atop"
+         result="result92"
+         id="feComposite24136" /><feBlend
+         mode="screen"
+         in2="result92"
+         id="feBlend24138" /></filter><filter
+       inkscape:label="Metallized Paint"
+       inkscape:menu="Materials"
+       inkscape:menu-tooltip="Metallized effect with a soft lighting, slightly translucent at the edges"
+       style="color-interpolation-filters:sRGB;"
+       id="filter24168"
+       x="-3.2379586"
+       y="-3.2379599"
+       width="7.4759172"
+       height="7.4759198"><feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur24142" /><feComposite
+         in="result1"
+         in2="result1"
+         result="result4"
+         operator="in"
+         id="feComposite24144" /><feBlend
+         in="result1"
+         mode="screen"
+         result="result5"
+         in2="result4"
+         id="feBlend24146" /><feGaussianBlur
+         stdDeviation="9.3506493506493502"
+         result="result6"
+         in="result5"
+         id="feGaussianBlur24148" /><feComposite
+         operator="atop"
+         in="result6"
+         in2="result5"
+         result="result8"
+         id="feComposite24150" /><feComposite
+         operator="in"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite24152" /><feGaussianBlur
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="2.5"
+         id="feGaussianBlur24154" /><feSpecularLighting
+         specularExponent="45"
+         specularConstant="1.5"
+         surfaceScale="1"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting24158"><fePointLight
+           z="21000"
+           y="-9000"
+           x="-6000"
+           id="fePointLight24156" /></feSpecularLighting><feComposite
+         operator="in"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphic"
+         id="feComposite24160" /><feComposite
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite24162" /><feComposite
+         operator="in"
+         in="result9"
+         in2="result4"
+         result="result91"
+         id="feComposite24164" /><feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend24166" /></filter><filter
+       inkscape:label="Tartan"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Checkered tartan pattern"
+       style="color-interpolation-filters:sRGB;"
+       id="filter28257"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:auto-region="true"><feTurbulence
+         type="fractalNoise"
+         result="result0"
+         seed="553"
+         numOctaves="2"
+         baseFrequency="34.805194805194809"
+         id="feTurbulence28243"
+         stitchTile="stitch" /><feTurbulence
+         result="result3"
+         type="turbulence"
+         seed="222"
+         numOctaves="2"
+         baseFrequency="33.246753246753244"
+         id="feTurbulence28245"
+         stitchTiles="stitch" /><feComposite
+         result="result1"
+         operator="over"
+         in2="result0"
+         id="feComposite28247" /><feMerge
+         result="result2"
+         id="feMerge28253"><feMergeNode
+           in="result1"
+           id="feMergeNode28249" /><feMergeNode
+           in="result0"
+           id="feMergeNode28251" /></feMerge><feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="in"
+         in2="result2"
+         id="feComposite28255" /></filter><filter
+       inkscape:label="Tartan"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Checkered tartan pattern"
+       style="color-interpolation-filters:sRGB;"
+       id="filter30088"
+       x="0"
+       y="0"
+       width="1"
+       height="1"><feTurbulence
+         type="fractalNoise"
+         result="result0"
+         seed="182"
+         numOctaves="2"
+         baseFrequency="23.116883116883116"
+         id="feTurbulence30074" /><feTurbulence
+         result="result3"
+         type="turbulence"
+         seed="57"
+         numOctaves="1"
+         baseFrequency="0.285 0"
+         id="feTurbulence30076" /><feComposite
+         result="result1"
+         operator="over"
+         in2="result0"
+         id="feComposite30078" /><feMerge
+         result="result2"
+         id="feMerge30084"><feMergeNode
+           in="result1"
+           id="feMergeNode30080" /><feMergeNode
+           in="result0"
+           id="feMergeNode30082" /></feMerge><feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="in"
+         in2="result2"
+         id="feComposite30086" /></filter><filter
+       inkscape:label="Tartan"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Checkered tartan pattern"
+       style="color-interpolation-filters:sRGB;"
+       id="filter32681"
+       x="0"
+       y="0"
+       width="1"
+       height="1"><feTurbulence
+         type="turbulence"
+         result="result0"
+         seed="5"
+         numOctaves="1"
+         baseFrequency="0 0.184"
+         id="feTurbulence32667" /><feTurbulence
+         result="result3"
+         type="turbulence"
+         seed="57"
+         numOctaves="1"
+         baseFrequency="0.285 0"
+         id="feTurbulence32669" /><feComposite
+         result="result1"
+         operator="over"
+         in2="result0"
+         id="feComposite32671" /><feMerge
+         result="result2"
+         id="feMerge32677"><feMergeNode
+           in="result1"
+           id="feMergeNode32673" /><feMergeNode
+           in="result0"
+           id="feMergeNode32675" /></feMerge><feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="in"
+         in2="result2"
+         id="feComposite32679" /></filter><filter
+       id="natural-surface"
+       x="0"
+       y="0"
+       width="1"
+       height="1"><feTurbulence
+         type="turbulence"
+         baseFrequency="0.61999999999999988"
+         numOctaves="8"
+         result="noise"
+         id="feTurbulence46387" /><feDiffuseLighting
+         in="noise"
+         lighting-color="#ffffff"
+         surfaceScale="0.046000000000000006"
+         result="light"
+         id="feDiffuseLighting46391"
+         diffuseConstant="1.3899999999999997"
+         baseFrequency="6.3600000000000003"><feDistantLight
+           id="feDistantLight48000"
+           azimuth="46"
+           elevation="46" /></feDiffuseLighting><feBlend
+         mode="multiply"
+         in="SourceGraphic"
+         in2="light"
+         id="feBlend46393"
+         result="result1" /><feComposite
+         in2="SourceGraphic"
+         id="feComposite3876"
+         operator="in" /></filter><filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter11540"
+       x="-0.41231207"
+       y="-0.41231207"
+       width="1.8246241"
+       height="1.8246241"><feFlood
+         flood-opacity="0.701961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood11530" /><feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite11532" /><feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur11534" /><feOffset
+         dx="-4.16334e-16"
+         dy="-6.38378e-16"
+         result="offset"
+         id="feOffset11536" /><feComposite
+         in="offset"
+         in2="offset"
+         operator="atop"
+         result="composite2"
+         id="feComposite11538" /></filter><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient11877"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13411"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13425"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13439"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13804"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13818"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13832"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13882"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13884"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13886"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13888"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13986"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13988"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13990"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13992"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13994"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13996"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient13998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient14000"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6249"
+       id="radialGradient15298"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3500021,-1.5391433e-6,1.1528206e-6,1.3000015,-12.038731,-27.781324)"
+       cx="34.395832"
+       cy="92.604164"
+       fx="34.395832"
+       fy="92.604164"
+       r="5.2916665" /></defs><g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
+     id="layer1"><rect
+       style="opacity:1;fill:#097436;fill-opacity:1;stroke:none;stroke-width:0.0799999;filter:url(#filter35556)"
+       id="rect4620"
+       width="10.583333"
+       height="10.583333"
+       x="84.666664"
+       y="87.3125"
+       inkscape:export-filename="background-green.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(5.0000002,0,0,5.0000002,-333.2103,-350.94883)" /><rect
+       style="opacity:1;fill:#097436;fill-opacity:1;stroke:none;stroke-width:0.0799999;filter:url(#filter35556)"
+       id="rect39693"
+       width="10.583333"
+       height="10.583333"
+       x="84.666664"
+       y="87.3125"
+       inkscape:export-filename="background-green.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(5.0000002,0,0,5.0000002,-396.87502,-351.89585)" /><rect
        style="fill:#d38d5f;stroke-width:0.2"
        id="rect643"
        width="50.800018"
@@ -380,8 +973,7 @@
        y="4.2333331"
        inkscape:export-filename="frames.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <rect
+       inkscape:export-ydpi="96" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect554"
        width="10.583333"
@@ -390,8 +982,7 @@
        y="5.2916665"
        inkscape:export-filename="letter_A.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="34.383125"
@@ -401,8 +992,7 @@
          id="tspan186"
          x="34.383125"
          y="15.117233"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">A</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">A</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect762"
        width="10.583333"
@@ -411,8 +1001,7 @@
        y="5.2916665"
        inkscape:export-filename="letter_B.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="47.612293"
@@ -422,8 +1011,7 @@
          id="tspan764"
          x="47.612293"
          y="15.117233"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">B</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">B</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect768"
        width="10.583333"
@@ -432,8 +1020,7 @@
        y="5.2916665"
        inkscape:export-filename="letter_C.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="60.841461"
@@ -443,8 +1030,7 @@
          id="tspan770"
          x="60.841461"
          y="15.117233"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">C</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">C</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect774"
        width="10.583333"
@@ -453,8 +1039,7 @@
        y="5.2916665"
        inkscape:export-filename="letter_D.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="74.070625"
@@ -464,8 +1049,7 @@
          id="tspan776"
          x="74.070625"
          y="15.117233"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">D</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">D</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect780"
        width="10.583333"
@@ -474,8 +1058,7 @@
        y="18.520834"
        inkscape:export-filename="letter_E.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="34.383125"
@@ -485,8 +1068,7 @@
          id="tspan782"
          x="34.383125"
          y="28.346399"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">E</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">E</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect786"
        width="10.583333"
@@ -495,8 +1077,7 @@
        y="18.520834"
        inkscape:export-filename="letter_F.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="47.612293"
@@ -506,8 +1087,7 @@
          id="tspan788"
          x="47.612293"
          y="28.346399"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">F</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">F</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect792"
        width="10.583333"
@@ -516,8 +1096,7 @@
        y="18.520834"
        inkscape:export-filename="letter_G.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="60.841461"
@@ -527,8 +1106,7 @@
          id="tspan794"
          x="60.841461"
          y="28.346399"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">G</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">G</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect798"
        width="10.583333"
@@ -537,8 +1115,7 @@
        y="18.520834"
        inkscape:export-filename="letter_H.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="74.070625"
@@ -548,8 +1125,7 @@
          id="tspan800"
          x="74.070625"
          y="28.346399"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">H</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">H</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect804"
        width="10.583333"
@@ -558,8 +1134,7 @@
        y="31.75"
        inkscape:export-filename="letter_I.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="34.383125"
@@ -569,8 +1144,7 @@
          id="tspan806"
          x="34.383125"
          y="41.575565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">I</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">I</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect810"
        width="10.583333"
@@ -579,8 +1153,7 @@
        y="31.75"
        inkscape:export-filename="letter_L.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="47.612293"
@@ -590,8 +1163,7 @@
          id="tspan812"
          x="47.612293"
          y="41.575565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">L</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">L</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect816"
        width="10.583333"
@@ -600,8 +1172,7 @@
        y="31.75"
        inkscape:export-filename="letter_M.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="60.841461"
@@ -611,8 +1182,7 @@
          id="tspan818"
          x="60.841461"
          y="41.575565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">M</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">M</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect822"
        width="10.583333"
@@ -621,8 +1191,7 @@
        y="31.75"
        inkscape:export-filename="letter_N.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="74.070625"
@@ -632,8 +1201,7 @@
          id="tspan824"
          x="74.070625"
          y="41.575565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">N</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">N</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect828"
        width="10.583333"
@@ -642,8 +1210,7 @@
        y="44.979168"
        inkscape:export-filename="letter_O.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="34.383125"
@@ -653,8 +1220,7 @@
          id="tspan830"
          x="34.383125"
          y="54.804733"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">O</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">O</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect834"
        width="10.583333"
@@ -663,8 +1229,7 @@
        y="44.979168"
        inkscape:export-filename="letter_P.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="47.612293"
@@ -674,8 +1239,7 @@
          id="tspan836"
          x="47.612293"
          y="54.804733"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">P</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">P</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect840"
        width="10.583333"
@@ -684,8 +1248,7 @@
        y="44.979168"
        inkscape:export-filename="letter_Qu.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="60.955059"
@@ -695,8 +1258,7 @@
          id="tspan842"
          x="60.955059"
          y="52.870808"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">Qu</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">Qu</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect846"
        width="10.583333"
@@ -705,8 +1267,7 @@
        y="44.979168"
        inkscape:export-filename="letter_R.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="74.070625"
@@ -716,8 +1277,7 @@
          id="tspan848"
          x="74.070625"
          y="54.804733"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">R</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">R</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect852"
        width="10.583333"
@@ -726,8 +1286,7 @@
        y="58.208332"
        inkscape:export-filename="letter_S.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="34.383125"
@@ -737,8 +1296,7 @@
          id="tspan854"
          x="34.383125"
          y="68.033897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">S</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">S</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect858"
        width="10.583333"
@@ -747,8 +1305,7 @@
        y="58.208332"
        inkscape:export-filename="letter_T.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="47.612293"
@@ -758,8 +1315,7 @@
          id="tspan860"
          x="47.612293"
          y="68.033897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">T</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">T</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect870"
        width="10.583333"
@@ -768,8 +1324,7 @@
        y="58.208332"
        inkscape:export-filename="letter_V.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="74.070625"
@@ -779,8 +1334,7 @@
          id="tspan872"
          x="74.070625"
          y="68.033897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">V</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">V</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect876"
        width="10.583333"
@@ -789,8 +1343,7 @@
        y="58.208332"
        inkscape:export-filename="letter_U.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="60.841461"
@@ -800,8 +1353,7 @@
          id="tspan878"
          x="60.841461"
          y="68.033897"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">U</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">U</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect882"
        width="10.583333"
@@ -810,8 +1362,7 @@
        y="71.4375"
        inkscape:export-filename="letter_Z.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
+       inkscape:export-ydpi="96" /><text
        xml:space="preserve"
        style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.2"
        x="34.390179"
@@ -821,8 +1372,7 @@
          id="tspan884"
          x="34.390179"
          y="80.433334"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">Z</tspan></text>
-    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d45500;stroke:none;stroke-width:0.2">Z</tspan></text><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect475"
        width="10.583333"
@@ -831,127 +1381,110 @@
        y="5.2916665"
        inkscape:export-filename="frames.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <rect
+       inkscape:export-ydpi="96" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect477"
        width="10.583333"
        height="10.583333"
        x="100.0125"
-       y="5.2916665" />
-    <rect
+       y="5.2916665" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect479"
        width="10.583333"
        height="10.583333"
        x="112.7125"
-       y="5.2916665" />
-    <rect
+       y="5.2916665" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect481"
        width="10.583333"
        height="10.583333"
        x="125.4125"
-       y="5.2916665" />
-    <rect
+       y="5.2916665" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect483"
        width="10.583333"
        height="10.583333"
        x="87.3125"
-       y="17.991667" />
-    <rect
+       y="17.991667" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect485"
        width="10.583333"
        height="10.583333"
        x="100.0125"
-       y="17.991667" />
-    <rect
+       y="17.991667" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect487"
        width="10.583333"
        height="10.583333"
        x="112.7125"
-       y="17.991667" />
-    <rect
+       y="17.991667" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect489"
        width="10.583333"
        height="10.583333"
        x="125.4125"
-       y="17.991667" />
-    <rect
+       y="17.991667" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect491"
        width="10.583333"
        height="10.583333"
        x="87.3125"
-       y="30.691668" />
-    <rect
+       y="30.691668" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect493"
        width="10.583333"
        height="10.583333"
        x="100.0125"
-       y="30.691668" />
-    <rect
+       y="30.691668" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect495"
        width="10.583333"
        height="10.583333"
        x="112.7125"
-       y="30.691668" />
-    <rect
+       y="30.691668" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect497"
        width="10.583333"
        height="10.583333"
        x="125.4125"
-       y="30.691668" />
-    <rect
+       y="30.691668" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect499"
        width="10.583333"
        height="10.583333"
        x="87.3125"
-       y="43.391666" />
-    <rect
+       y="43.391666" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect501"
        width="10.583333"
        height="10.583333"
        x="100.0125"
-       y="43.391666" />
-    <rect
+       y="43.391666" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect503"
        width="10.583333"
        height="10.583333"
        x="112.7125"
-       y="43.391666" />
-    <rect
+       y="43.391666" /><rect
        style="fill:#f2f2f2;stroke:none;stroke-width:0.2"
        id="rect505"
        width="10.583333"
        height="10.583333"
        x="125.4125"
-       y="43.391666" />
-    <rect
+       y="43.391666" /><rect
        style="fill:#d45500;fill-opacity:1;stroke-width:0.2"
        id="rect5027"
        width="4.2333331"
        height="0.52916664"
        x="32.279167"
-       y="80.962502" />
-    <g
+       y="80.962502" /><g
        id="letter_A"
        inkscape:label="letter_A"
        style="display:inline"
        inkscape:export-filename="../../../../Downloads/letter_A.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"
+       transform="translate(8.1911565e-7,-1.0583328)"><rect
          style="fill:url(#radialGradient8580);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8556"
          width="10.583333"
@@ -962,15 +1495,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8558"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -980,17 +1511,14 @@
            id="tspan8560"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">A</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">A</tspan></text></g><g
        id="letter_B"
        inkscape:label="letter_B"
        style="display:inline"
-       transform="translate(10.583333)"
+       transform="translate(11.641669,-1.0583328)"
        inkscape:export-filename="../../../../Downloads/letter_B.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8725);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8691"
          width="10.583333"
@@ -1001,15 +1529,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8693"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1019,17 +1545,14 @@
            id="tspan8695"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">B</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">B</tspan></text></g><g
        id="letter_C"
        inkscape:label="letter_C"
        style="display:inline"
-       transform="translate(21.166667)"
+       transform="translate(23.283335,-1.0583328)"
        inkscape:export-filename="../../../../Downloads/letter_C.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8723);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8701"
          width="10.583333"
@@ -1040,15 +1563,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8703"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1058,17 +1579,14 @@
            id="tspan8705"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">C</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">C</tspan></text></g><g
        id="letter_D"
        inkscape:label="letter_D"
        style="display:inline"
-       transform="translate(31.75)"
+       transform="translate(34.925002,-1.0583328)"
        inkscape:export-filename="../../../../Downloads/letter_D.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8721);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8711"
          width="10.583333"
@@ -1079,15 +1597,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8713"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1097,17 +1613,14 @@
            id="tspan8715"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">D</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">D</tspan></text></g><g
        id="letter_E"
        inkscape:label="letter_E"
        style="display:inline"
        transform="translate(0,10.583337)"
        inkscape:export-filename="letter_E.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8773);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8727"
          width="10.583333"
@@ -1118,15 +1631,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8729"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1136,17 +1647,14 @@
            id="tspan8731"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">E</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">E</tspan></text></g><g
        id="g8745"
        inkscape:label="letter_F"
        style="display:inline"
-       transform="translate(10.583333,10.583337)"
+       transform="translate(11.641669,10.583331)"
        inkscape:export-filename="../../../../Downloads/letter_F.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8771);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8737"
          width="10.583333"
@@ -1157,15 +1665,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8739"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1175,17 +1681,14 @@
            id="tspan8741"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">F</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">F</tspan></text></g><g
        id="letter_G"
        inkscape:label="letter_G"
        style="display:inline"
-       transform="translate(21.166667,10.583337)"
+       transform="translate(23.283335,10.583334)"
        inkscape:export-filename="../../../../Downloads/letter_G.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8769);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8747"
          width="10.583333"
@@ -1196,15 +1699,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8749"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1214,17 +1715,14 @@
            id="tspan8751"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">G</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">G</tspan></text></g><g
        id="letter_H"
        inkscape:label="letter_H"
        style="display:inline"
-       transform="translate(31.75,10.583337)"
+       transform="translate(34.925002,10.583334)"
        inkscape:export-filename="../../../../Downloads/letter_H.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8767);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8757"
          width="10.583333"
@@ -1235,15 +1733,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8759"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1253,17 +1749,14 @@
            id="tspan8761"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">H</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">H</tspan></text></g><g
        id="letter_I"
        inkscape:label="letter_I"
        style="display:inline"
-       transform="translate(-1.0724922e-7,21.166667)"
+       transform="translate(5.3455726e-7,22.225001)"
        inkscape:export-filename="../../../../Downloads/letter_I.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8821);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8775"
          width="10.583333"
@@ -1274,15 +1767,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8777"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1292,17 +1783,14 @@
            id="tspan8779"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">I</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">I</tspan></text></g><g
        id="letter_L"
        inkscape:label="letter_L"
        style="display:inline"
-       transform="translate(10.583333,21.166667)"
+       transform="translate(11.641669,22.225001)"
        inkscape:export-filename="../../../../Downloads/letter_L.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8819);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8785"
          width="10.583333"
@@ -1313,15 +1801,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8787"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1331,17 +1817,14 @@
            id="tspan8789"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">L</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">L</tspan></text></g><g
        id="g8803"
        inkscape:label="letter_M"
        style="display:inline"
-       transform="translate(21.166667,21.166667)"
+       transform="translate(23.283335,22.225001)"
        inkscape:export-filename="../../../../Downloads/letter_M.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8817);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8795"
          width="10.583333"
@@ -1352,15 +1835,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8797"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1370,17 +1851,14 @@
            id="tspan8799"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">M</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">M</tspan></text></g><g
        id="g8813"
        inkscape:label="letter_N"
        style="display:inline"
-       transform="translate(31.75,21.166667)"
+       transform="translate(34.925002,22.225001)"
        inkscape:export-filename="../../../../Downloads/letter_N.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8815);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8805"
          width="10.583333"
@@ -1391,15 +1869,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8807"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1409,17 +1885,14 @@
            id="tspan8809"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">N</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">N</tspan></text></g><g
        id="g8831"
        inkscape:label="letter_O"
        style="display:inline"
-       transform="translate(5.3455919e-7,31.750001)"
+       transform="translate(-1.0724922e-7,33.866667)"
        inkscape:export-filename="../../../../Downloads/letter_O.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8869);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8823"
          width="10.583333"
@@ -1430,15 +1903,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8825"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1448,17 +1919,14 @@
            id="tspan8827"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">O</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">O</tspan></text></g><g
        id="letter_P"
        inkscape:label="letter_P"
        style="display:inline"
-       transform="translate(10.583334,31.750001)"
+       transform="translate(11.641669,33.866667)"
        inkscape:export-filename="../../../../Downloads/letter_P.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8867);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8833"
          width="10.583333"
@@ -1469,15 +1937,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8835"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1487,17 +1953,14 @@
            id="tspan8837"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">P</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">P</tspan></text></g><g
        id="letter_Qu"
        inkscape:label="letter_Qu"
        style="display:inline"
-       transform="translate(21.166668,31.750001)"
+       transform="translate(23.283335,33.866667)"
        inkscape:export-filename="../../../../Downloads/letter_Qu.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8865);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8843"
          width="10.583333"
@@ -1508,15 +1971,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8845"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.487553"
@@ -1526,17 +1987,14 @@
            id="tspan8847"
            x="34.487553"
            y="94.967773"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">Qu</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">Qu</tspan></text></g><g
        id="letter_R"
        inkscape:label="letter_R"
        style="display:inline"
-       transform="translate(31.750001,31.750001)"
+       transform="translate(34.925002,33.866667)"
        inkscape:export-filename="../../../../Downloads/letter_R.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8863);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8853"
          width="10.583333"
@@ -1547,15 +2005,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8855"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1565,17 +2021,14 @@
            id="tspan8857"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">R</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">R</tspan></text></g><g
        id="letter_S"
        inkscape:label="letter_S"
        style="display:inline"
-       transform="translate(-1.0724922e-7,42.333334)"
+       transform="translate(-1.0724922e-7,45.508334)"
        inkscape:export-filename="../../../../Downloads/letter_S.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8917);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8871"
          width="10.583333"
@@ -1586,15 +2039,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8873"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1604,17 +2055,14 @@
            id="tspan8875"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">S</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">S</tspan></text></g><g
        id="g8889"
        inkscape:label="letter_T"
        style="display:inline"
-       transform="translate(10.583333,42.333334)"
+       transform="translate(11.641669,45.508334)"
        inkscape:export-filename="../../../../Downloads/letter_T.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8915);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8881"
          width="10.583333"
@@ -1625,15 +2073,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8883"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1643,17 +2089,14 @@
            id="tspan8885"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">T</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">T</tspan></text></g><g
        id="g8899"
        inkscape:label="letter_U"
        style="display:inline"
-       transform="translate(21.166667,42.333334)"
+       transform="translate(23.283335,45.508334)"
        inkscape:export-filename="../../../../Downloads/letter_U.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8913);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8891"
          width="10.583333"
@@ -1664,15 +2107,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8893"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1682,17 +2123,14 @@
            id="tspan8895"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">U</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">U</tspan></text></g><g
        id="letter_V"
        inkscape:label="letter_V"
        style="display:inline"
-       transform="translate(31.75,42.333334)"
+       transform="translate(34.925002,45.508334)"
        inkscape:export-filename="../../../../Downloads/letter_V.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient8911);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect8901"
          width="10.583333"
@@ -1703,15 +2141,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse8903"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1721,17 +2157,14 @@
            id="tspan8905"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">V</tspan></text>
-    </g>
-    <g
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">V</tspan></text></g><g
        id="letter_Z"
        inkscape:label="letter_Z"
        style="display:inline"
-       transform="translate(42.343219,42.333334)"
+       transform="translate(46.566668,45.508334)"
        inkscape:export-filename="../../../../Downloads/letter_Z.svg"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <rect
+       inkscape:export-ydpi="96"><rect
          style="fill:url(#radialGradient9142);fill-opacity:1;stroke:none;stroke-width:0.2"
          id="rect9132"
          width="10.583333"
@@ -1742,15 +2175,13 @@
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96"
          ry="1.0583339"
-         rx="1.0583339" />
-      <ellipse
+         rx="1.0583339" /><ellipse
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2"
          id="ellipse9134"
          cx="34.395832"
          cy="92.604164"
          rx="5.0270834"
-         ry="5.0270815" />
-      <text
+         ry="5.0270815" /><text
          xml:space="preserve"
          style="font-size:1.41111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#333333;stroke:none;stroke-width:0.2"
          x="34.385948"
@@ -1760,22 +2191,798 @@
            id="tspan9136"
            x="34.385948"
            y="96.130531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">Z</tspan></text>
-      <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke:none;stroke-width:0.2">Z</tspan></text><path
          style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
          d="m 32.798447,96.837498 h 3.175"
-         id="path9198" />
-    </g>
-    <rect
-       style="opacity:1;fill:#097436;fill-opacity:1;stroke:none;stroke-width:0.0799999;filter:url(#filter35556)"
-       id="rect39693"
-       width="10.583333"
-       height="10.583333"
-       x="84.666664"
-       y="87.3125"
-       inkscape:export-filename="background-green.svg"
+         id="path9198" /></g><g
+       id="g4616"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       transform="matrix(5.0000002,0,0,5.0000002,-338.66667,-349.25001)" />
-  </g>
-</svg>
+       transform="translate(66.410419)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect11356"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient4618);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect4608"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse4610"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="A"
+         id="text4614"
+         style="font-size:1.41111px;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;fill:#aa0000;stroke-width:0.2"><path
+           d="m 33.345964,93.129102 1.024467,-2.819401 h 0.01693 l 1.007533,2.819401 z m 0.601134,-3.547534 -2.353734,6.045202 h 0.821267 l 0.677333,-1.820334 h 2.556934 l 0.660401,1.820334 h 0.889 l -2.362201,-6.045202 z"
+           style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';filter:url(#natural-surface)"
+           id="path10412" /></g></g><g
+       id="g11875"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(79.375001)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect11865"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient11877);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect11867"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse11869"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="B"
+         id="text11961"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;display:inline;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.821032,92.180828 v -1.921934 h 1.608667 q 0.262467,0 0.491067,0.03387 0.237067,0.0254 0.414867,0.127 0.1778,0.1016 0.2794,0.287867 0.1016,0.186267 0.1016,0.508 0,0.4826 -0.3048,0.728134 -0.296334,0.237067 -0.982134,0.237067 z M 32.016698,89.58156 v 6.045202 h 2.921001 q 0.448734,0 0.787401,-0.143933 0.347133,-0.1524 0.575733,-0.389467 0.237067,-0.245533 0.3556,-0.5588 0.118534,-0.313267 0.118534,-0.643467 0,-0.5588 -0.296334,-0.948267 -0.296333,-0.389467 -0.855133,-0.508 v -0.01693 q 0.4318,-0.169333 0.6604,-0.516466 0.237067,-0.355601 0.237067,-0.838201 0,-0.4572 -0.211667,-0.770467 -0.2032,-0.313267 -0.499534,-0.491067 -0.135466,-0.08467 -0.3302,-0.127 -0.186266,-0.04233 -0.4064,-0.05927 -0.220133,-0.0254 -0.448733,-0.0254 -0.220134,-0.0085 -0.414867,-0.0085 z m 0.804334,5.367869 v -2.091268 h 1.837267 q 0.254,0 0.491067,0.0508 0.237067,0.04233 0.414867,0.160867 0.186267,0.110067 0.296333,0.3048 0.110067,0.194734 0.110067,0.491067 0,0.508 -0.3048,0.795867 -0.296333,0.287867 -0.829734,0.287867 z"
+           id="path20379"
+           style="display:inline" /></g></g><g
+       id="g13409"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(92.604168)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13399"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13411);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13401"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13403"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="C"
+         id="text13407"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 36.110339,91.401894 h 0.804333 q -0.06773,-0.4826 -0.287867,-0.846667 -0.220133,-0.372533 -0.550333,-0.618067 -0.3302,-0.245533 -0.753534,-0.372533 -0.423333,-0.127 -0.897467,-0.127 -0.694267,0 -1.236134,0.254 -0.5334,0.245533 -0.897467,0.677333 -0.3556,0.4318 -0.541867,1.016001 -0.186266,0.575733 -0.186266,1.236134 0,0.6604 0.169333,1.236133 0.1778,0.575734 0.524934,0.999067 0.347133,0.423334 0.872067,0.668867 0.524933,0.237067 1.227667,0.237067 1.159934,0 1.828801,-0.635 0.668866,-0.635 0.7874,-1.778001 h -0.804334 q -0.0254,0.372534 -0.1524,0.694267 -0.127,0.321734 -0.3556,0.5588 -0.220133,0.2286 -0.5334,0.364067 -0.3048,0.127 -0.702734,0.127 -0.541867,0 -0.931334,-0.2032 -0.389466,-0.2032 -0.643466,-0.541867 -0.245534,-0.347133 -0.364067,-0.804333 -0.118534,-0.465667 -0.118534,-0.982134 0,-0.474134 0.118534,-0.914401 0.118533,-0.440266 0.364067,-0.778933 0.254,-0.347134 0.635,-0.550334 0.389467,-0.2032 0.931334,-0.2032 0.635,0 1.0922,0.321734 0.465667,0.321733 0.601134,0.9652 z"
+           id="path20382" /></g></g><g
+       id="g13423"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(105.83333)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13413"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13425);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13415"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13417"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="D"
+         id="text13421"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.740602,94.949429 v -4.690535 h 1.354668 q 0.5588,0 0.9398,0.160866 0.381,0.1524 0.618067,0.4572 0.245533,0.296334 0.347133,0.728134 0.110067,0.423334 0.110067,0.965201 0,0.5588 -0.118533,0.956733 -0.110067,0.389467 -0.287867,0.651934 -0.1778,0.262467 -0.4064,0.414867 -0.220134,0.1524 -0.448734,0.237066 -0.2286,0.0762 -0.4318,0.1016 -0.2032,0.01693 -0.338667,0.01693 z M 31.936269,89.58156 v 6.045202 h 2.074334 q 0.753533,0 1.303867,-0.211666 0.550334,-0.211667 0.905934,-0.609601 0.3556,-0.4064 0.524933,-0.9906 0.169334,-0.592667 0.169334,-1.354667 0,-1.456267 -0.753534,-2.167468 -0.753534,-0.7112 -2.150534,-0.7112 z"
+           id="path20385" /></g></g><g
+       id="g13437"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(66.145835,13.229167)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13427"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13439);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13429"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13431"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="E"
+         id="text13435"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.329971,89.58156 v 6.045202 h 4.199468 v -0.677333 h -3.395135 v -2.091268 h 3.141135 v -0.677333 h -3.141135 v -1.921934 h 3.369735 V 89.58156 Z"
+           id="path20853" /></g></g><g
+       id="g13802"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(79.375001,13.229167)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13792"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13804);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13794"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13796"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="F"
+         id="text13800"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.486599,89.58156 v 6.045202 h 0.804333 V 92.858161 H 36.068 v -0.677333 h -2.777068 v -1.921934 h 3.166535 V 89.58156 Z"
+           id="path20856" /></g></g><g
+       id="g13816"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(92.604168,13.229167)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13806"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13818);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13808"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13810"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="G"
+         id="text13814"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 36.224636,94.873229 0.211667,0.753533 h 0.508 v -3.183468 h -2.650068 v 0.677334 h 1.930401 q 0.01693,0.414867 -0.110067,0.778934 -0.127,0.3556 -0.381,0.626533 -0.245534,0.262467 -0.6096,0.414867 -0.364067,0.1524 -0.838201,0.1524 -0.508,0 -0.897467,-0.194733 -0.381,-0.2032 -0.643467,-0.5334 -0.262466,-0.338667 -0.397933,-0.770467 -0.135467,-0.440267 -0.135467,-0.914401 0,-0.4826 0.118534,-0.9398 0.118533,-0.465667 0.364066,-0.821267 0.254,-0.364067 0.643467,-0.5842 0.397934,-0.220134 0.948267,-0.220134 0.338667,0 0.635001,0.08467 0.3048,0.0762 0.541866,0.237067 0.237067,0.160866 0.397934,0.414866 0.160867,0.245534 0.220133,0.592667 h 0.804334 q -0.08467,-0.5334 -0.321733,-0.905933 -0.228601,-0.381 -0.575734,-0.626534 -0.338667,-0.245533 -0.778934,-0.3556 -0.4318,-0.118533 -0.922867,-0.118533 -0.719667,0 -1.261533,0.270933 -0.533401,0.262467 -0.897468,0.7112 -0.3556,0.448734 -0.541866,1.049867 -0.1778,0.592667 -0.1778,1.253068 0,0.592666 0.194733,1.143 0.194733,0.550334 0.567267,0.973667 0.372533,0.423334 0.905934,0.677334 0.5334,0.245533 1.210733,0.245533 0.533401,0 1.058334,-0.2032 0.524934,-0.211667 0.880534,-0.6858 z"
+           id="path20859" /></g></g><g
+       id="g13830"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(105.83333,13.229167)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13820"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13832);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13822"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13824"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="H"
+         id="text13828"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 31.86007,89.58156 v 6.045202 h 0.804334 v -2.768601 h 3.183468 v 2.768601 h 0.804333 V 89.58156 h -0.804333 v 2.599268 H 32.664404 V 89.58156 Z"
+           id="path20862" /></g></g><g
+       id="g13844"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(66.145835,26.458334)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13834"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13888);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13836"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13838"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="I"
+         id="text13842"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 33.853968,89.58156 v 6.045202 h 0.804334 V 89.58156 Z"
+           id="path20865" /></g></g><g
+       id="g13856"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(79.375001,26.458334)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13846"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13886);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13848"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13850"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="L"
+         id="text13854"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.562797,89.58156 v 6.045202 h 4.004735 V 94.949429 H 33.367131 V 89.58156 Z"
+           id="path20868" /></g></g><g
+       id="g13868"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(92.604168,26.458334)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13858"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13884);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13860"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13862"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="M"
+         id="text13866"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 31.246236,89.58156 v 6.045202 h 0.762 V 90.59756 h 0.01693 l 1.888067,5.029202 h 0.6858 l 1.888068,-5.029202 h 0.01693 v 5.029202 h 0.762 V 89.58156 h -1.100667 l -1.913467,5.080002 -1.905001,-5.080002 z"
+           id="path20871" /></g><rect
+         style="fill:#a80000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1;filter:url(#natural-surface)"
+         id="rect19186"
+         width="3.175"
+         height="0.52916664"
+         x="32.808331"
+         y="96.308334" /></g><g
+       id="g13880"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(105.83333,26.458334)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13870"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13882);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13872"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13874"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="N"
+         id="text13878"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 31.851603,89.58156 v 6.045202 h 0.762001 V 90.77536 h 0.01693 l 3.158068,4.851402 h 0.880534 V 89.58156 h -0.762001 v 4.902202 h -0.01693 L 32.706737,89.58156 Z"
+           id="path20874" /></g></g><g
+       id="g13900"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(66.145835,39.687501)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13890"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient14000);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13892"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13894"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="O"
+         id="text13898"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.16487,92.604161 q 0,-0.4572 0.118533,-0.897467 0.118534,-0.448733 0.372534,-0.804333 0.254,-0.355601 0.651933,-0.567267 0.397934,-0.220134 0.948267,-0.220134 0.550334,0 0.948267,0.220134 0.397934,0.211666 0.651934,0.567267 0.254,0.3556 0.372533,0.804333 0.118534,0.440267 0.118534,0.897467 0,0.4572 -0.118534,0.905934 -0.118533,0.440267 -0.372533,0.795867 -0.254,0.3556 -0.651934,0.575733 -0.397933,0.211667 -0.948267,0.211667 -0.550333,0 -0.948267,-0.211667 -0.397933,-0.220133 -0.651933,-0.575733 -0.254,-0.3556 -0.372534,-0.795867 -0.118533,-0.448734 -0.118533,-0.905934 z m -0.804334,0 q 0,0.618067 0.1778,1.193801 0.186267,0.567267 0.550334,1.007533 0.364067,0.440267 0.905933,0.702734 0.541867,0.254 1.261534,0.254 0.719667,0 1.261534,-0.254 0.541867,-0.262467 0.905934,-0.702734 0.364067,-0.440266 0.541867,-1.007533 0.186266,-0.575734 0.186266,-1.193801 0,-0.618067 -0.186266,-1.185334 -0.1778,-0.575733 -0.541867,-1.016 -0.364067,-0.440267 -0.905934,-0.702734 -0.541867,-0.262466 -1.261534,-0.262466 -0.719667,0 -1.261534,0.262466 -0.541866,0.262467 -0.905933,0.702734 -0.364067,0.440267 -0.550334,1.016 -0.1778,0.567267 -0.1778,1.185334 z"
+           id="path20877" /></g></g><g
+       id="g13912"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(79.375001,39.687501)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13902"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13998);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13904"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13906"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="P"
+         id="text13910"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.977668,92.477161 v -2.218267 h 1.574801 q 0.6858,0 0.999067,0.287866 0.321733,0.2794 0.321733,0.821267 0,0.541867 -0.321733,0.829734 -0.313267,0.287867 -0.999067,0.2794 z M 32.173334,89.58156 v 6.045202 h 0.804334 v -2.472267 h 1.845734 q 0.914401,0.0085 1.380067,-0.465667 0.474134,-0.474134 0.474134,-1.320801 0,-0.846667 -0.474134,-1.312333 -0.465666,-0.474134 -1.380067,-0.474134 z"
+           id="path20880" /></g></g><g
+       id="g13924"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(92.604168,39.687501)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13914"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13996);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13916"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13918"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="Q"
+         id="text13922"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 34.848804,93.899562 -0.423333,0.491067 0.668867,0.5334 q -0.406401,0.169333 -0.838201,0.169333 -0.550333,0 -0.948267,-0.211667 -0.397933,-0.220133 -0.651933,-0.575733 -0.254,-0.3556 -0.372534,-0.795867 -0.118533,-0.448734 -0.118533,-0.905934 0,-0.4572 0.118533,-0.897467 0.118534,-0.448733 0.372534,-0.804333 0.254,-0.355601 0.651933,-0.567267 0.397934,-0.220134 0.948267,-0.220134 0.550334,0 0.948267,0.220134 0.397934,0.211666 0.651934,0.567267 0.254,0.3556 0.372533,0.804333 0.118534,0.440267 0.118534,0.897467 0,0.5588 -0.169334,1.075267 -0.169333,0.508 -0.524933,0.863601 z m 1.778001,2.243667 0.4064,-0.508 -0.795867,-0.626534 q 0.4572,-0.4572 0.6858,-1.083733 0.2286,-0.626534 0.2286,-1.320801 0,-0.618067 -0.186266,-1.185334 -0.1778,-0.575733 -0.541867,-1.016 -0.364067,-0.440267 -0.905934,-0.702734 -0.541867,-0.262466 -1.261534,-0.262466 -0.719667,0 -1.261534,0.262466 -0.541866,0.262467 -0.905933,0.702734 -0.364067,0.440267 -0.550334,1.016 -0.1778,0.567267 -0.1778,1.185334 0,0.618067 0.1778,1.193801 0.186267,0.567267 0.550334,1.007533 0.364067,0.440267 0.905933,0.702734 0.541867,0.254 1.261534,0.254 0.838201,0 1.447801,-0.3556 z"
+           id="path20883" /></g></g><g
+       id="g13936"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(105.83333,39.687501)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13926"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13994);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13928"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13930"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="R"
+         id="text13934"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 32.016698,89.58156 v 6.045202 h 0.804334 v -2.582334 h 1.964267 q 0.296334,0 0.474134,0.09313 0.1778,0.08467 0.287867,0.237067 0.110066,0.143934 0.160866,0.347134 0.0508,0.194733 0.08467,0.414866 0.04233,0.220134 0.0508,0.448734 0.0085,0.2286 0.01693,0.4318 0.0085,0.194734 0.03387,0.3556 0.03387,0.160867 0.118534,0.254 h 0.897467 q -0.127001,-0.1524 -0.194734,-0.347133 -0.05927,-0.2032 -0.09313,-0.423334 -0.03387,-0.220133 -0.04233,-0.448733 -0.0085,-0.2286 -0.0254,-0.448734 -0.0254,-0.220133 -0.0762,-0.423333 -0.04233,-0.2032 -0.143933,-0.364067 -0.09313,-0.169333 -0.262467,-0.287867 -0.160867,-0.118533 -0.423333,-0.169333 v -0.01693 q 0.550333,-0.152401 0.795867,-0.567267 0.254,-0.414867 0.254,-0.965201 0,-0.7366 -0.491067,-1.159934 -0.4826,-0.423333 -1.346201,-0.423333 z m 2.480735,2.785534 h -1.676401 v -2.1082 h 1.998134 q 0.567267,0 0.821267,0.287866 0.254,0.287867 0.254,0.745067 0,0.3302 -0.118533,0.541867 -0.110067,0.2032 -0.3048,0.3302 -0.186267,0.118534 -0.440267,0.160867 -0.254,0.04233 -0.5334,0.04233 z"
+           id="path20886" /></g></g><g
+       id="g13948"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(66.145835,52.916668)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13938"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13992);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13940"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13942"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="S"
+         id="text13946"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 35.670069,91.351094 h 0.762 q -0.01693,-0.499534 -0.194733,-0.855134 -0.169333,-0.364066 -0.474133,-0.601133 -0.296334,-0.237067 -0.694267,-0.347134 -0.397934,-0.110066 -0.863601,-0.110066 -0.414867,0 -0.8128,0.110066 -0.389467,0.1016 -0.702734,0.321734 -0.3048,0.211667 -0.491067,0.550333 -0.186266,0.3302 -0.186266,0.787401 0,0.414866 0.160866,0.694267 0.169334,0.270933 0.440267,0.448733 0.2794,0.169333 0.626534,0.2794 0.347133,0.1016 0.702733,0.186267 0.364067,0.0762 0.711201,0.1524 0.347133,0.0762 0.618067,0.2032 0.2794,0.118533 0.440267,0.313267 0.169333,0.194733 0.169333,0.508 0,0.3302 -0.135467,0.541867 -0.135467,0.211667 -0.3556,0.338667 -0.220133,0.118533 -0.499533,0.169333 -0.270934,0.0508 -0.541867,0.0508 -0.338667,0 -0.660401,-0.08467 -0.321733,-0.08467 -0.567267,-0.262466 -0.237066,-0.1778 -0.389466,-0.448734 -0.143934,-0.2794 -0.143934,-0.6604 h -0.762 q 0,0.550333 0.194733,0.956734 0.2032,0.397933 0.541867,0.6604 0.347134,0.254 0.795867,0.381 0.4572,0.127 0.965201,0.127 0.414866,0 0.829733,-0.1016 0.423334,-0.09313 0.762001,-0.3048 0.338666,-0.220133 0.550333,-0.5588 0.220134,-0.347134 0.220134,-0.829734 0,-0.448733 -0.169334,-0.745067 -0.160867,-0.296333 -0.440267,-0.491067 -0.270933,-0.194733 -0.618067,-0.3048 -0.347133,-0.118533 -0.7112,-0.2032 -0.3556,-0.08467 -0.702733,-0.1524 -0.347134,-0.0762 -0.626534,-0.186267 -0.270934,-0.110066 -0.440267,-0.2794 -0.160867,-0.1778 -0.160867,-0.4572 0,-0.296334 0.110067,-0.491067 0.118533,-0.2032 0.3048,-0.321733 0.194734,-0.118534 0.440267,-0.169334 0.245533,-0.0508 0.499534,-0.0508 0.626533,0 1.024467,0.296334 0.4064,0.287866 0.474133,0.9398 z"
+           id="path20889" /></g></g><g
+       id="g13960"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(79.375001,52.916668)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13950"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13990);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13952"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13954"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="T"
+         id="text13958"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 33.858199,90.258894 v 5.367868 h 0.804334 V 90.258894 H 36.6776 V 89.58156 h -4.834468 v 0.677334 z"
+           id="path20892" /></g></g><g
+       id="g13972"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(92.604168,52.916668)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13962"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13988);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13964"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13966"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="U"
+         id="text13970"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="M 36.686072,93.442362 V 89.58156 h -0.804334 v 3.860802 q 0,0.8128 -0.4064,1.236133 -0.397933,0.414867 -1.1684,0.414867 -0.812801,0 -1.244601,-0.414867 -0.4318,-0.423333 -0.4318,-1.236133 V 89.58156 h -0.804334 v 3.860802 q 0,1.210733 0.651934,1.769534 0.6604,0.550333 1.828801,0.550333 1.143,0 1.761067,-0.575733 0.618067,-0.584201 0.618067,-1.744134 z"
+           id="path20895" /></g></g><g
+       id="g13984"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(105.83333,52.916668)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect13974"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient13986);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect13976"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse13978"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="V"
+         id="text13982"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 34.709105,95.626762 2.150534,-6.045202 h -0.8382 l -1.744134,5.240869 h -0.01693 l -1.7272,-5.240869 H 31.66957 l 2.125135,6.045202 z"
+           id="path20898" /></g></g><g
+       id="g15296"
+       inkscape:label="letter_A"
+       style="display:inline"
+       inkscape:export-filename="../../../../Downloads/letter_A.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(119.0625,52.916668)"><rect
+         style="fill:#c83737;fill-opacity:1;stroke-width:0.4;filter:url(#filter11540)"
+         id="rect15286"
+         width="11.641667"
+         height="11.641667"
+         x="28.574999"
+         y="86.783333"
+         rx="1.0583339"
+         ry="1.0583339" /><rect
+         style="fill:url(#radialGradient15298);fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="rect15288"
+         width="10.583333"
+         height="10.583333"
+         x="29.104166"
+         y="87.3125"
+         inkscape:export-filename="letter_A.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         ry="1.0583339"
+         rx="1.0583339" /><ellipse
+         style="fill:#f5f0ea;fill-opacity:1;stroke:none;stroke-width:0.2;filter:url(#natural-surface)"
+         id="ellipse15290"
+         cx="34.395832"
+         cy="92.604164"
+         rx="4.7625003"
+         ry="4.7624984" /><g
+         aria-label="Z"
+         id="text15294"
+         style="font-size:8.46667px;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:center;text-anchor:middle;fill:#a80000;stroke-width:0.4;filter:url(#natural-surface)"><path
+           d="m 31.855837,94.949429 v 0.677333 h 4.809069 v -0.677333 h -3.852335 l 3.750735,-4.690535 V 89.58156 h -4.419602 v 0.677334 h 3.471335 z"
+           id="path20901" /></g><rect
+         style="fill:#a80000;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-opacity:1;filter:url(#natural-surface)"
+         id="rect17890"
+         width="3.175"
+         height="0.52916664"
+         x="32.808334"
+         y="96.308334" /></g></g></svg>
