@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
    sodipodi:docname="letters.svg"
-   inkscape:export-filename="letters.svg"
+   inkscape:export-filename="background-green.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2"
-     inkscape:cx="266.75"
-     inkscape:cy="400.75"
+     inkscape:cx="263.75"
+     inkscape:cy="385.75"
      inkscape:window-width="1920"
      inkscape:window-height="1065"
      inkscape:window-x="0"
@@ -89,7 +89,7 @@
          result="result0"
          seed="553"
          numOctaves="2"
-         baseFrequency="20 20"
+         baseFrequency="34.805194805194809"
          id="feTurbulence35542"
          stitchTile="stitch" />
       <feTurbulence
@@ -97,7 +97,7 @@
          type="turbulence"
          seed="222"
          numOctaves="2"
-         baseFrequency="50 25"
+         baseFrequency="33.246753246753244"
          id="feTurbulence35544"
          stitchTiles="stitch" />
       <feComposite
