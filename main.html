@@ -39,37 +39,86 @@
 		.button:hover {
 			background-position: right center;
 		}
+		
+			
+		.board-row {
+			background-color: #5a2d2d;
+			float: center;
+  			margin: 0 auto;
+  			content: "";
+  			clear: both;
+  			display: table;
+		}
+		.board-column {
+  			width: 70px;
+			height: 70px;
+			float: left;
+  			padding: 4px;
+		}
+		
+	
+
 	</style>
 </head>
 <body>
 	
 	<div id="Dice board" style="margin: 0 auto;">
-		<table id="diceTable" style="width:280px; height:70px;">
-			<tr>
-				<td><img id="die_00" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_01" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_02" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_03" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-			</tr>
-			<tr>
-				<td><img id="die_04" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_05" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_06" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_07" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-			</tr>
-			<tr>
-				<td><img id="die_08" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_09" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_10" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_11" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-			</tr>
-			<tr>
-				<td><img id="die_12" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_13" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_14" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-				<td><img id="die_15" src="img/letter_A.svg" alt="Dice Image" style="width:70px;height:70px;rotate:0deg;display:true;" ></td>
-			</tr>
-		</table>
+		<div class="board-row">
+			<div class="board-column">
+				<img id="die_00" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_01" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_02" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_03" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+		</div>
+		<div class="board-row">
+			<div class="board-column">
+				<img id="die_04" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_05" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_06" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_07" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+		</div>
+		<div class="board-row">
+			<div class="board-column">
+				<img id="die_08" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_09" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_10" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_11" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+		</div>
+		<div class="board-row">
+			<div class="board-column">
+				<img id="die_12" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_13" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_14" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+			<div class="board-column">
+				<img id="die_15" src="img/letter_A.svg" alt="Die Image" style="width:70px;height:70px;rotate:0deg;display:true;" >
+			</div>
+		</div>
 	</div>
 
 	<div id="Controls" style="margin: 0 auto; text-align:center; padding-top: 10px;">
